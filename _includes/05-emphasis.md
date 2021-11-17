@@ -1,6 +1,6 @@
 1. *Item 1
 2. __Item 2
-3. **Item 3
+3. _**Item 3**_
    1. Item 3a
    2. Item 3b
 _Item 1
