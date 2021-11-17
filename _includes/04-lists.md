@@ -1,6 +1,6 @@
-1. *ravi 💔
-2. **Item 2 👍
-3. __Item 3
+*. ravi 💔
+*. Item 2 👍
+*. Item 3
    1. Item 3a
    2. Item 3b
 _Item 1
